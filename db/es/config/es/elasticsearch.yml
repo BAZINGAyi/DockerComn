@@ -1,0 +1,15 @@
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
+xpack.security.enabled: false
+
+
+# password
+# Enter password for [elastic]:
+# Reenter password for [elastic]:
+# Enter password for [apm_system]:
+# Reenter password for [apm_system]:
+# Enter password for [kibana_system]:
+# Reenter password for [kibana_system]:
+# Enter password for [logstash_system]:
+# Reenter password for [logstash_system]:
+# password: ipslaCisco
